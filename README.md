@@ -7,9 +7,9 @@
 Здесь представлены мои проекты:
   - [Учебные проекты в Яндекс.Практикум](https://github.com/Templl/YandexDataAnalyst)
 
-
-mail: sims_m@mail.ru   .
-Мои контакты в Telegram: Templl
+Мои контакты:
+- sims_m@mail.ru   .
+- Telegram: Templl
 
 <!---
 - 👀 I’m interested in ...
