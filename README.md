@@ -8,7 +8,7 @@
   - [Учебные проекты в Яндекс.Практикум](https://github.com/Templl/YandexDataAnalyst)
 
 
-mail: sims_m@mail.ru .
+mail: sims_m@mail.ru   .
 Мои контакты в Telegram: Templl
 
 <!---
