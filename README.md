@@ -9,7 +9,7 @@
 
 Мои контакты:
 - sims_m@mail.ru   .
-- Telegram: Templl
+- Telegram: [Templl](https://t.me/Templl)
 
 <!---
 - 👀 I’m interested in ...
